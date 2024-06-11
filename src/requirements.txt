@@ -1,0 +1,5 @@
+pandas
+sqlalchemy
+python-dotend
+psycopg2-binary
+yfinance
